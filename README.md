@@ -14,9 +14,10 @@ This project gives you a real-world scenario where you read and write to disk vi
 Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/Laithamr05/Image-Processing-API.git
+cd Image-Processing-API
 npm install
+
 ```
 
 ### Scripts
